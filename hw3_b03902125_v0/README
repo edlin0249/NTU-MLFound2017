@@ -1,0 +1,10 @@
+programming language: python3.6.3
+Type command:
+Q7.py:python3 Q7.py
+Q8.py:python3 Q8.py [hw3_train.dat.txt path] [hw3_test.dat.txt path] [learning rate]
+Q9.py:python3 Q9.py [hw3_train.dat.txt path] [hw3_test.dat.txt path] [learning rate]
+[learning rate] = 0.01 or 0.001
+[hw3_train.dat.txt path] = ./hw3_train.dat.txt or others
+[hw3_test.dat.txt path] = ./hw3_test.dat.txt or others
+python3.6 needs to import sys, numpy, matplotlib, and pylab packages in the testing environment, so the testing environment must install those packages first.
+OS: macOS High Sierra 10.13.1

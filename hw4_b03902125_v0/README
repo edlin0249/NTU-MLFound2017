@@ -1,0 +1,8 @@
+programming language: python3.6.3
+Type command:
+Q7.py:python3 Q7.py [hw4_train.dat.txt path] [hw4_test.dat.txt path]
+Q8.py:python3 Q8.py [hw4_train.dat.txt path] [hw4_test.dat.txt path]
+[hw4_train.dat.txt path] = ./hw4_train.dat.txt or others
+[hw4_test.dat.txt path] = ./hw4_test.dat.txt or others
+python3.6 needs to import sys, numpy, and matplotlib packages in the testing environment, so the testing environment must install those packages first.
+OS: macOS High Sierra 10.13.1

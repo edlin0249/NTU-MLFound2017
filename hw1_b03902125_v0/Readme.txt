@@ -1,0 +1,1 @@
+讓hw1_8_train.dat跟problem8.py放在同一個目錄，輸入python problem8.py 或 python3 problem8.py，即可得到想要的結果及histogram
